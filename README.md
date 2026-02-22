@@ -1,4 +1,4 @@
-# Dell 5581 (HP) - HouseHub Development Server Documentation
+# Dell 5581 - HouseHub Development Server Documentation
 
 ## Overview
 
@@ -417,5 +417,5 @@ ip route show | grep default
 For issues or updates to this documentation, refer to the HouseHub main project documentation.
 
 **Last Updated**: February 2026  
-**Device**: Dell 5581 (HP) - Ubuntu 24.04.4 LTS  
+**Device**: Dell 5581 - Ubuntu 24.04.4 LTS  
 **Status**: Production Ready
